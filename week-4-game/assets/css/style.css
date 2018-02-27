@@ -1,7 +1,13 @@
 .container {
 	background:radial-gradient(white,#F6F4F4);
 }
+#game-info{
+	width: 346px;
+	text-align: justify;
+}
+
 #page-title{
+color: #12317F;
 
 }
 
@@ -10,7 +16,7 @@
 	height: 100px;
 	padding-top: 30px;
 	font-size: 40px;
-	text-align: left;
+	text-align: center;
 	
 
 }
@@ -22,8 +28,8 @@
 	text-align: center;
 }
 .thumbnail{
-	height: 100px;
-	width: 100px;
+	height: 110px;
+	width: 110px;
 }
 #score-box > p{
 	
