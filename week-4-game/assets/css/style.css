@@ -1,0 +1,31 @@
+
+#page-title{
+
+}
+
+#random-number-box > p{
+	
+	height: 100px;
+	
+	font-size: 25px;
+	text-align: center;
+
+}
+#wins-loss-box > p{
+	
+	height: 100px;
+	
+	font-size: 20px;
+	text-align: center;
+}
+.thumbnail{
+	height: 100px;
+	width: 100px;
+}
+#score-box > p{
+	
+	
+	font-size: 25px;
+	height: 100px;
+	text-align: center;
+}
