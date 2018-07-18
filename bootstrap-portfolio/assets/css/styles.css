@@ -1,0 +1,36 @@
+body { 
+  padding-top: 65px; 
+}
+.navbar-brand {
+  background: orangered;
+  padding: 8px;
+}
+
+.connect-images {
+  /* Box-model */
+  width: 78px;
+  height: 78px;
+}
+
+.block {
+  z-index: 1;
+}
+/* BEGIN FOOTER */
+.footer {
+  /* Positioning */
+  position: fixed;
+  bottom: 0;
+
+  /* Box-model */
+  width: 100%;
+  height: 80px;
+
+  /* Visual */
+  background-color: #343a40;
+  color: white;
+}
+/* PORTFOLIO PAGE */
+.port-image {
+  margin: 20px auto;
+}
+/* END PORTFOLIO PAGE */
